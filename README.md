@@ -2,8 +2,6 @@
 
 This SDK Provides all LOTR movies and movie quotes
 
-
-
 # Description 
 
 This SDK provides different API operations. This is Java based project. 
