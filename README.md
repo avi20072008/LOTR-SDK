@@ -54,7 +54,3 @@ If you need any help, reach out to avi_patil22@yahoo.com
 
 No license required. Have fun!!
 
-
-
-
-![image](https://user-images.githubusercontent.com/5509550/235166668-7908126a-2b1e-4b5c-be88-76f601728428.png)
