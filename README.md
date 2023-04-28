@@ -26,7 +26,7 @@ Step 3 : You should see jar file is added in the “Referenced Libraries”.
 Step 4 : Inside your sample project, add below code to test various methods provided by SDK.
 
 	import src.lotr.IRepository;
-
+	import src.lotr.LordOfTheRingAPI;
 
 	IRepository lotrapi = new LordOfTheRingAPI();
          
